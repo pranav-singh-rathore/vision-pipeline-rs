@@ -1,0 +1,41 @@
+{
+  "impl": "rust",
+  "opencv": "4.6.0",
+  "runs": [
+    {
+      "blur_ms": 0.0,
+      "decode_ms": 0.0,
+      "frame_crc32": "00000000",
+      "frames": 1000,
+      "track_ms": 0.5296057649999999
+    },
+    {
+      "blur_ms": 0.0,
+      "decode_ms": 0.0,
+      "frame_crc32": "00000000",
+      "frames": 1000,
+      "track_ms": 0.5549484750000001
+    },
+    {
+      "blur_ms": 0.0,
+      "decode_ms": 0.0,
+      "frame_crc32": "00000000",
+      "frames": 1000,
+      "track_ms": 0.5505843959999998
+    },
+    {
+      "blur_ms": 0.0,
+      "decode_ms": 0.0,
+      "frame_crc32": "00000000",
+      "frames": 1000,
+      "track_ms": 0.4860235609999995
+    },
+    {
+      "blur_ms": 0.0,
+      "decode_ms": 0.0,
+      "frame_crc32": "00000000",
+      "frames": 1000,
+      "track_ms": 0.5105168329999997
+    }
+  ]
+}
