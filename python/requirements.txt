@@ -1,0 +1,4 @@
+numpy
+scipy
+opencv-python-headless<5  # prefer the distro build that matches the Rust side
+matplotlib

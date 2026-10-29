@@ -1,0 +1,6 @@
+/target
+data/*.avi
+data/synth_*.csv
+results/*.csv
+*.mp4
+__pycache__/
